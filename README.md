@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haochen, junior standing pursuing Bacholar of Science in Computer Science @ UW-Madison
-- 👀 I’m interested in ... (null)
-- 🌱 I’m currently learning OS and Compilers
+- 👀 I’m interested in distributed systems
+- 🌱 I’m currently learning distributed systems and RL
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me georgehe2015@gmail.com
 - 😄 Pronouns: he/him/his
